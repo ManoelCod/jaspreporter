@@ -18,7 +18,7 @@ Localizar os relatórios exportados no formato PDF.
 Passos:
 Acesse o repositório do projeto no GitHub através do navegador. A URL será algo como:
 
-https://github.com/usuario/repositorio
+https://github.com/ManoelCod/jaspreporter.git
 Na página principal do repositório, procure o botão verde Code (localizado acima da lista de arquivos).
 
 Clique em Download ZIP.
@@ -90,25 +90,9 @@ Usuário: jasp
 
 Senha: 0101
 
-Banco de dados: <nome_do_banco>.
+Banco de dados: <bdcompras>.
 
 Teste a conexão.
-
-Gere o dump:
-
-Clique com o botão direito no banco de dados.
-
-Selecione Tools > Dump Database.
-
-Configure:
-
-Inclua tabelas e dados.
-
-Formato do arquivo: SQL.
-
-Escolha um destino para salvar o arquivo, como dump.sql.
-
-Clique em Start para gerar o dump.
 
 2. Importar o Projeto Jasporter no JasperReports Studio
 Pré-requisitos
